@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Yashrai001/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Yashrai001/Leetcode-Problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Yashrai001/Leetcode-Problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Yashrai001/Leetcode-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Yashrai001/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
