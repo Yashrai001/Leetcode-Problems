@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashrai001/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/Yashrai001/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Yashrai001/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Array
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Yashrai001/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
